@@ -12,7 +12,7 @@ Emphasis is on disciplined practice, clean logic, and correct time & space compl
 - Linked lists, stacks, and queues
 - Hashing techniques
 - Trees, graphs, and dynamic programming basics
-- Bit manipulation
+- Bit manipulati
 - Time and space complexity analysis
 
 ---
