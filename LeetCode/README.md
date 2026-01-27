@@ -10,21 +10,6 @@ All solutions are written with a focus on:
 
 ---
 
-## 📂 Folder Structure
-
-LeetCode/
-│
-├── Easy/
-│   └── Java solutions for easy-level LeetCode problems
-│
-├── Medium/
-│   └── Java solutions for medium-level LeetCode problems
-│
-└── Hard/
-    └── Java solutions for hard-level LeetCode problems
-
----
-
 ## 🧠 Concepts Covered
 - Arrays & Strings
 - Hashing
