@@ -7,14 +7,14 @@ class Solution {
 
             int digit_count = 0 ;
 
-            int number = nums[i]; // 12.0
+            int number = nums[i]; 
 
             if(number == 0){
 
                 digit_count = 1;
             }
 
-            while(number!=0){ //pass
+            while(number!=0){ 
 
                 number = number / 10 ;
 
