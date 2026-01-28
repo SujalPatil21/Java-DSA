@@ -10,7 +10,7 @@ The solution uses efficient nested traversal with constant extra space.
 
 ---
 
-## 🧠 Concept Used
+## 🧠 Concept Used 
 - 2D Arrays
 - Nested loops
 - Row-wise summation
