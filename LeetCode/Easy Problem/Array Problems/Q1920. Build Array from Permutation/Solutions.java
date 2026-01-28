@@ -8,7 +8,7 @@ class Solution {
 
             ans[i] = nums[nums[i]];
         }
-
+ 
         return ans;
     }
 }
