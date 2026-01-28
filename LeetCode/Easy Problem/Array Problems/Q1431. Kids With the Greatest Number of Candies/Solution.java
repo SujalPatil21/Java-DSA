@@ -14,7 +14,7 @@ class Solution {
             int ans = candies[j] + extraCandies;
             if(ans >=Max_Candy){
 
-                result.add(true);
+                result.add(true); 
             }
             else{
                 result.add(false);
