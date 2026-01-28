@@ -10,7 +10,7 @@ class Solution {
 
             while(start <= end){
 
-                int temp = image[i][start];
+                int temp = image[i][start]; 
                 image[i][start] = 1 - image[i][end];
                 image[i][end] = 1 - temp;
                 start++;
