@@ -1,6 +1,6 @@
-# Q1351. Count Negative Numbers in a Sorted Matrix – Java Solution
+# d – Java Solution
 
-This repository contains a Java solution for the **LeetCode problem: Q1351. Count Negative Numbers in a Sorted Matrix**.
+This repository contains a Java solution for the **LeetCode problem: d**.
 
 ---
 
