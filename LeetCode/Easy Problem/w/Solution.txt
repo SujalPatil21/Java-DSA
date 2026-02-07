@@ -1,0 +1,38 @@
+class Solution {
+    public boolean checkIfExist(int[] arr) {
+        
+        boolean value = false;
+        for(int i = 0 ; i < arr.length ; i++){
+
+
+            for(int j = 0 ; j < arr.length ; j++){
+
+
+                if(i == j){
+
+                    ;
+                }
+                else{
+                    int number = arr[j] * 2;
+
+                    if(arr[i] == number){
+
+                        value = true;
+                        break;
+                    }
+                    else{
+
+                        value = false;
+                    }
+                }
+            }
+
+                if(value == true){
+
+                    return value;
+                }
+
+        }
+        return value;
+    }
+}
