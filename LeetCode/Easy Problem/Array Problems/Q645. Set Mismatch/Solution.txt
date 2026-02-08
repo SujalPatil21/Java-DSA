@@ -1,0 +1,29 @@
+class Solution {
+    public int[] findErrorNums(int[] nums) {
+        int i = 0;
+        int n = nums.length;
+        while(i < n){
+
+            int correct = nums[i] - 1;
+            if(nums[correct] != nums[i]){
+
+                int temp = nums[correct];
+                nums[correct] = nums[i];
+                nums[i] = temp;
+            }
+            else{
+
+                i++;
+            }
+        }
+
+        for(int j = 0 ; j < nums.length ; j++){
+
+            if(nums[j] != j+1){
+
+                return new int[]{nums[j], j+1};
+            }
+        }
+        return new int[]{-1,-1};
+    }
+}
