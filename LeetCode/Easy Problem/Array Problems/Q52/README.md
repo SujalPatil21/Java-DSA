@@ -1,6 +1,6 @@
-# as – Java Solution
+# Q52 – Java Solution
 
-This repository contains a Java solution for the **LeetCode problem: as**.
+This repository contains a Java solution for the **LeetCode problem: Q52**.
 
 ---
 
@@ -14,7 +14,7 @@ The problem focuses on applying basic algorithmic reasoning and efficient traver
 
 ## 🎯 Difficulty
 
-Easy
+Medium
 
 ---
 
@@ -38,7 +38,7 @@ Easy
 
 ## ⏱️ Execution Time
 
-15 minutes
+32
 
 ---
 
