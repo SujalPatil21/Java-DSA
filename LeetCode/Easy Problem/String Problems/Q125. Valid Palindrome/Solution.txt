@@ -1,32 +1,16 @@
 class Solution {
-    public int firstMissingPositive(int[] nums) {
+    public boolean isPalindrome(String s) {
+        
+       s = s.toLowerCase().replaceAll("[^a-z0-9]","");  
         
 
-        int n = nums.length;
-        int i = 0;
-        while(i < n){
+        String rev = new StringBuilder(s).reverse().toString();
+        if(rev.equals(s)){
 
-            int correct = nums[i] - 1;
-            if(nums[i] > 0 && nums[i] < n && nums[i] != nums[correct]){
-
-                int temp = nums[i];
-                nums[i] = nums[correct];
-                nums[correct] = temp;
-            }
-            else{
-                
-                i++;
-            }
+            return true;
         }
 
-        for(int index = 0 ; index < n ; index++){
+        return false;
 
-            if(nums[index] != index + 1){
-
-                return index + 1;
-            }
-
-        }
-        return n + 1;
     }
 }

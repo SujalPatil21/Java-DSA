@@ -38,7 +38,7 @@ Easy
 
 ## ⏱️ Execution Time
 
-12 minutes
+12 minutes 6 seconds
 
 ---
 
