@@ -1,31 +1,32 @@
 class Solution {
-    public int missingNumber(int[] nums) {
+    public int firstMissingPositive(int[] nums) {
+        
 
         int n = nums.length;
         int i = 0;
         while(i < n){
 
-            int correct = nums[i];
-            if(nums[i] < n && nums[i] != nums[correct]){
+            int correct = nums[i] - 1;
+            if(nums[i] > 0 && nums[i] < n && nums[i] != nums[correct]){
 
                 int temp = nums[i];
                 nums[i] = nums[correct];
                 nums[correct] = temp;
             }
             else{
-
+                
                 i++;
             }
         }
 
         for(int index = 0 ; index < n ; index++){
 
-            if(nums[index] != index){
+            if(nums[index] != index + 1){
 
-                return index;
+                return index + 1;
             }
 
         }
-        return n;
+        return n + 1;
     }
 }

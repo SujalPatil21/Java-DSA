@@ -1,6 +1,6 @@
-# w – Java Solution
+# qe – Java Solution
 
-This repository contains a Java solution for the **LeetCode problem: w**.
+This repository contains a Java solution for the **LeetCode problem: qe**.
 
 ---
 
@@ -14,7 +14,7 @@ The problem focuses on applying basic algorithmic reasoning and efficient traver
 
 ## 🎯 Difficulty
 
-Easy
+Medium
 
 ---
 
@@ -38,7 +38,7 @@ Easy
 
 ## ⏱️ Execution Time
 
-12 minutes 31 seconds
+42 miun
 
 ---
 
