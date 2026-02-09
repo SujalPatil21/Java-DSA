@@ -1,6 +1,6 @@
-# d – Java Solution
+# Q125. Valid Palindrome – Java Solution
 
-This repository contains a Java solution for the **LeetCode problem: d**.
+This repository contains a Java solution for the **LeetCode problem: Q125. Valid Palindrome**.
 
 ---
 
@@ -38,7 +38,7 @@ Easy
 
 ## ⏱️ Execution Time
 
-10 minutes 12 seconds
+12 minutes
 
 ---
 
