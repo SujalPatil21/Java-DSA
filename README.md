@@ -10,7 +10,7 @@ This repository emphasizes:
 
 ---
 
-## 📌 Objectives
+##  Objectives
 - Build a solid foundation in core DSA concepts  
 - Practice problems in a **disciplined and systematic manner**  
 - Develop interview-ready problem-solving skills  
@@ -18,7 +18,7 @@ This repository emphasizes:
 
 ---
 
-## 🧠 Concepts Covered
+##  Concepts Covered
 - Arrays and Strings
 - Searching and Sorting techniques
 - Recursion and Backtracking
@@ -33,7 +33,7 @@ This repository emphasizes:
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 - Problems are organized **concept-wise and difficulty-wise**
 - Each problem includes:
   - Java solution
@@ -43,7 +43,7 @@ This repository emphasizes:
 
 ---
 
-## 🎯 Intended Use
+##  Intended Use
 - Daily DSA practice
 - Interview revision
 - Reference for standard problem-solving patterns
@@ -51,7 +51,7 @@ This repository emphasizes:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Sujal Patil**
 
