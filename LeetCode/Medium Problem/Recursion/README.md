@@ -1,70 +1,43 @@
-# LeetCode\Medium Problem\Recursion – Java Solution
+# Medium Recursion Problems – LeetCode (Java)
 
-This repository contains a Java solution for the **LeetCode problem: LeetCode\Medium Problem\Recursion**.
+This folder contains **medium-level LeetCode problems based on recursion**, implemented in **Java**.
 
----
-
-## 📌 Problem Overview
-
-Given an input, the task is to compute the required result according to the problem constraints.
-
-The problem focuses on applying basic algorithmic reasoning and efficient traversal to derive the solution.
+These problems focus on developing the ability to break down complex problems into smaller subproblems using recursive thinking, which is essential for mastering advanced DSA topics.
 
 ---
 
-## 🎯 Difficulty
-
-Medium
-
----
-
-## 🧪 Code Functionality
-
-- Reads the input values  
-- Iterates through the data structure  
-- Applies the required logic step by step  
-- Computes and returns the final result  
+## Concepts Covered
+- Recursion fundamentals
+- Base case and recursive case design
+- Backtracking techniques
+- Divide and conquer approach
+- Stack space understanding
+- Recursive tree analysis
 
 ---
 
-## 🧠 Concepts Covered
-
-- Loops  
-- Conditional statements  
-- Basic algorithmic logic  
-- Problem-solving patterns  
-
----
-
-## ⏱️ Execution Time
-
-28 Minutes 21 Seconds
+## Purpose
+- Strengthen recursive problem-solving skills  
+- Transition from basic recursion to advanced patterns  
+- Build a foundation for backtracking and dynamic programming  
+- Prepare for medium-level interview questions
 
 ---
 
-## 🖥️ Screenshots
-
-📸 **Test Case Result**
-
-![Test Case Screenshot](testcases.png)
-
-📸 **Submission Result**
-
-![Submission Screenshot](submission.png)
+## Notes
+- Each problem has its own folder
+- Every problem includes:
+  - Java solution
+  - Individual `README.md`
+  - Test case and submission screenshots
+- Focus is on clarity first, optimization next
 
 ---
 
-## 📂 File Information
+## Author
 
-- `Solution.java`
-- testcases.png
-- submission.png
-- README.md
+**Sujal Patil**
 
----
-
-## 👨‍💻 Author
-
-Sujal Patil  
-GitHub: https://github.com/SujalPatil21  
-LinkedIn: https://www.linkedin.com/in/sujalpatil21/
+[![GitHub](https://img.shields.io/badge/GitHub-SujalPatil21-blue)](https://github.com/SujalPatil21)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SujalPatil-blue)](https://www.linkedin.com/in/sujalpatil)  
+[![Email](https://img.shields.io/badge/Email-sujalpatil21@gmail.com-blue)](mailto:sujalpatil21@gmail.com)
