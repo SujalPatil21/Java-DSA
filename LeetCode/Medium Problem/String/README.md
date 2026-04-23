@@ -1,70 +1,38 @@
-# LeetCode\Medium Problem\String – Java Solution
+# Medium String Problems – LeetCode
 
-This repository contains a Java solution for the **LeetCode problem: LeetCode\Medium Problem\String**.
+## Description
+This directory contains medium-level string problems solved using Java.  
+The goal is to strengthen problem-solving ability, recognize recurring patterns, and improve implementation speed for technical interviews.
 
----
-
-## 📌 Problem Overview
-
-Given an input, the task is to compute the required result according to the problem constraints.
-
-The problem focuses on applying basic algorithmic reasoning and efficient traversal to derive the solution.
+Each solution is written with a focus on clarity, efficiency, and scalability.  
+Emphasis is placed on understanding *why* an approach works, not just getting the correct output.
 
 ---
 
-## 🎯 Difficulty
-
-Medium
-
----
-
-## 🧪 Code Functionality
-
-- Reads the input values  
-- Iterates through the data structure  
-- Applies the required logic step by step  
-- Computes and returns the final result  
+## Approach & Focus Areas
+- Breaking problems into smaller logical steps  
+- Identifying patterns across different questions  
+- Writing optimized and clean code  
+- Reducing time complexity through better approaches  
+- Practicing edge case handling  
 
 ---
 
-## 🧠 Concepts Covered
-
-- Loops  
-- Conditional statements  
-- Basic algorithmic logic  
-- Problem-solving patterns  
-
----
-
-## ⏱️ Execution Time
-
-20 minutes 38 seconds
+## Concepts Used
+- String Manipulation  
+- Two Pointer Technique  
+- Sliding Window  
+- Hashing (HashMap / HashSet)  
+- Recursion & Backtracking  
+- Greedy  
 
 ---
 
-## 🖥️ Screenshots
-
-📸 **Test Case Result**
-
-![Test Case Screenshot](testcases.png)
-
-📸 **Submission Result**
-
-![Submission Screenshot](submission.png)
+## Goal
+To build strong intuition for string-based problems and reach a level where medium problems can be solved quickly and consistently in interview settings.
 
 ---
 
-## 📂 File Information
-
-- `Solution.java`
-- testcases.png
-- submission.png
-- README.md
-
----
-
-## 👨‍💻 Author
-
-Sujal Patil  
-GitHub: https://github.com/SujalPatil21  
-LinkedIn: https://www.linkedin.com/in/sujalpatil21/
+## Author
+Sujal  
+Backend-focused Engineering Student
