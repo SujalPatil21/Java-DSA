@@ -39,5 +39,9 @@ To build a solid foundation in Data Structures and Algorithms, enabling a smooth
 ---
 
 ## Author
-Sujal  
-Backend-focused Engineering Student
+
+**Sujal Patil**
+
+[![GitHub](https://img.shields.io/badge/GitHub-SujalPatil21-blue)](https://github.com/SujalPatil21)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SujalPatil-blue)](https://www.linkedin.com/in/sujalpatil)  
+[![Email](https://img.shields.io/badge/Email-sujalpatil21@gmail.com-blue)](mailto:sujalpatil21@gmail.com)
