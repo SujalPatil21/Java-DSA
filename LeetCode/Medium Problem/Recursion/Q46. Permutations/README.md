@@ -59,7 +59,7 @@ swap(nums, i, index);
 ![Test Case](testcase.png)
 
 ### Accepted Submission
-![Submission](solution.png)
+![Submission](submission.png)
 
 ---
 
