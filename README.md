@@ -65,7 +65,7 @@ All solutions are written with a focus on:
 
 ---
 
-## 🧠 Concepts Covered
+##  Concepts Covered
 - Arrays & Strings
 - Hashing
 - Prefix Sum
@@ -77,7 +77,7 @@ All solutions are written with a focus on:
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 - Build strong DSA fundamentals
 - Practice problems in a **difficulty-wise disciplined manner**
 - Prepare for **technical interviews and coding assessments**
